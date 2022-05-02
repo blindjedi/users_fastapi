@@ -2,6 +2,30 @@
 
 users app using fast api
 
+# Setup
+
+> cloning 
+> 
+> `git clone <url-app>`
+>
+> `git fetch origin`
+
+> setting up virtual environment
+>
+> `python -m venv venv`
+
+> activate
+>
+> `source venv/bin/activate`
+
+> install requirements.txt
+>
+> `pip install requirements.txt`
+
+> run server
+>
+> `uvicorn main:app --reload`
+
 ## Tech Stack
 
 database: PostgreSQL framework: FastAPI language: Python
@@ -22,5 +46,3 @@ Practice
 1. Dockerize app
 2. Build CI/CD Pipeline
 3. Deploy to AWS
-
-##
