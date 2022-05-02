@@ -4,7 +4,9 @@ users app using fast api
 
 # Setup
 
-> cloning `git clone <url-app>`
+> cloning 
+> 
+> `git clone <url-app>`
 >
 > `git fetch origin`
 
