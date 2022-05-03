@@ -50,4 +50,3 @@ Practice
 # Docker setup
 
 Local configuration yaml file
-.envs are now sorted 
