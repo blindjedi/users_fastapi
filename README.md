@@ -26,6 +26,18 @@ users app using fast api
 >
 > `uvicorn main:app --reload`
 
+# Docker Setup
+
+Running Locally on Docker port 8000
+
+> run server
+>
+> `make build`
+
+> stop server
+>
+> `make down`
+
 ## Tech Stack
 
 database: PostgreSQL framework: FastAPI language: Python
@@ -50,4 +62,5 @@ Practice
 # Docker setup
 
 Local configuration yaml file
-.envs are now sorted 
+.envs are now sorted
+requirements splitting for local and production configurations
