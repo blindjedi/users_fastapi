@@ -4,8 +4,8 @@ users app using fast api
 
 # Setup
 
-> cloning 
-> 
+> cloning
+>
 > `git clone <url-app>`
 >
 > `git fetch origin`
@@ -40,9 +40,13 @@ Practice
 1. building routes
 2. sending and recieving data
 3. authenticating and granting access via tokens
+4. Dockerize app
 
 ## Extra
 
-1. Dockerize app
-2. Build CI/CD Pipeline
-3. Deploy to AWS
+1. Build CI/CD Pipeline
+2. Deploy to AWS
+
+# Docker setup
+
+Local configuration yaml file
